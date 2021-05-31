@@ -35,10 +35,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)                 
 
  
-# Meus hobbies
+<h1 align="center">Meus hobbies </h1>
 
 <a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
-  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="250px" />
+  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="180px" />
  </a>
 
 * :headphones: Sou apaixonado por escutar música e extremamente eclético;
