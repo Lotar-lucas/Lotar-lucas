@@ -36,7 +36,7 @@
 
 
 <a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
-  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="20%" height="200px" />
+  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="200px" />
  </a>
  
 # Meus hobbies
