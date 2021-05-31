@@ -21,8 +21,8 @@
 
 <h1 align="center"> :computer: Tecnologias & Ferramentas :wrench: </h1>
 
-<a href="https://media.giphy.com/media/3o85xqOFGmTBiOADbW/giphy.gif"> 
-  <img align="right" src="https://media.giphy.com/media/3o85xqOFGmTBiOADbW/giphy.gif" width="45%" height="450px" />
+<a href="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif"> 
+  <img align="right" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="45%" height="450px" />
  </a>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -35,7 +35,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)                 
 
  
-<h1 align="center">Meus hobbies </h1>
+<h1 align="center">Meus hobbies :smile:</h1>
 
 <a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
   <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="180px" />
