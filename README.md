@@ -21,9 +21,9 @@
 
 # :computer: Tecnologias & Ferramentas :wrench:
 
-<!-- <a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"> 
+<a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"> 
   <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45%" />
- </a> -->
+ </a>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 
