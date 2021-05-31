@@ -38,7 +38,7 @@
 # Meus hobbies
 
 <a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
-  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="200px" />
+  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="250px" />
  </a>
 
 * :headphones: Sou apaixonado por escutar música e extremamente eclético;
