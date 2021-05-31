@@ -35,8 +35,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)                 
 
 
-<a href="https://media.giphy.com/media/l41lFj8afmWIo3yW4/giphy.gif"> 
-  <img align="left" src="https://media.giphy.com/media/l41lFj8afmWIo3yW4/giphy.gif" width="20%" height="200px" />
+<a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
+  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="20%" height="200px" />
  </a>
  
 # Meus hobbies
