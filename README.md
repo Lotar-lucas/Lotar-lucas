@@ -22,7 +22,7 @@
 <h1 align="center"> :computer: Tecnologias & Ferramentas :wrench: </h1>
 
 <a href="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif"> 
-  <img align="right" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="45%" height="450px" />
+  <img align="right" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="40%" height="300px" />
  </a>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -47,5 +47,5 @@
 * :video_game: Jogar games com boa história;
 * :runner: Atividade física pratico de musculação e corrida.
 
-# Portfólio
+<h1 align="center"> Portfólio </h1>
 :construction: *Em construção...* 
