@@ -34,12 +34,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=compact&theme=midnight-purple&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)                 
 
+ 
+# Meus hobbies
 
 <a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
   <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="200px" />
  </a>
- 
-# Meus hobbies
+
 * :headphones: Sou apaixonado por escutar música e extremamente eclético;
 * :book: Ler bons livros, hoje principalmente sobre tecnologia, finanças e desenvolvimento pessoal;
 * :movie_camera: Assistir séries e filmes, de super-herói, magia, ficção ou uma boa dose de ação.
