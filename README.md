@@ -6,7 +6,7 @@
 <!-- <h1 align="center"> Hello Visitante :wave: </h1>  -->
 
 <a href="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif"> 
-  <img align="center" src="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif" width="80%" height="10%" />
+  <img align="center" src="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif" width="80%" height="500" />
  </a>
 
 #### Me chamo Lucas Lotar tenho 25 anos, sou gaúcho e moro em Alvorada-RS, uma pessoa que gosta de complexidade e estudar :alien:
