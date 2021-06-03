@@ -1,12 +1,12 @@
 <a href="https://www.linkedin.com/in/lucaslotar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/LLotar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/l_lotar/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/Lotar-lucas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  width="150"/></a>
+<a href="https://github.com/Lotar-lucas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></a>
 
 <!-- <h1 align="center"> Hello Visitante :wave: </h1>  -->
 
 <a href="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif"> 
-  <img align="center" src="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif" width="40%" />
+  <img align="center" src="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif" width="100" />
  </a>
 
 #### Me chamo Lucas Lotar tenho 25 anos, sou gaúcho e moro em Alvorada-RS, uma pessoa que gosta de complexidade e estudar :alien:
