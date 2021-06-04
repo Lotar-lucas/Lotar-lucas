@@ -49,3 +49,5 @@
 
 <h1 align="center"> Portfólio </h1>
 :construction: *Em construção...* 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=Lotar-lucas&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
