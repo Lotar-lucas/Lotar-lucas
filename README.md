@@ -51,3 +51,5 @@
 :construction: *Em construção...* 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+[![https://spotify-github-profile.vercel.app/api/view.svg?uid=12177144125&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12177144125&cover_image=true&theme=novatorem)]]
