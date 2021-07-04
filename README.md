@@ -24,15 +24,15 @@
 </div>
   
   <ul>
-    <li>Meu nome é Lucas Lotar e tenho 25 anos, moro na cidade de Alvorada-RS, um amante por estudar estudar :alien:</li>
+    <li>Meu nome é Lucas Lotar 25 anos, moro na cidade de Alvorada-RS, pessoa comunicativa e com foco por gerar valor</li>
     <br>
-    <li>Faço parte de uma escola de programação chamada <strong><a href="https://www.betrybe.com/">Trybe</a></strong> onde aprendo hard & soft skills, lá a metodologia é focada na prática.</li>
+    <li>Estudo na escola de programação <strong><a href="https://www.betrybe.com/">Trybe</a></strong> lá aprendo hard & soft skills, e a metodologia é focada na prática.</li>
     <br>
     <li>Faço tambem Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong> onde ja estudei Banco de dados, Engenharia de software. Gestão de T.I, Qualidade de software, Gestão de projetos, etc...</li>
     <br>
-    <li>Hoje meu foco é ter uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e bons softwares</li>
+    <li>Hoje tenho foco em uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e  softwares</li>
     <br>
-    <li>Como 99% da pessoas desenvolvedoras sou viciado em café :coffee:</li>
+    <li>Meus gostos são música, estudo, leitura, games, café, filmes & séries e exercícios 🎧:</li>
   </ul>
   <br>
   
