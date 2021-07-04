@@ -1,10 +1,27 @@
 <main>
   <div>
-    <span><a href="https://www.linkedin.com/in/lucaslotar/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></span>
-    <span><a href="https://twitter.com/LLotar" /><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></span>
-    <span><a href="https://www.instagram.com/l_lotar/?hl=pt-br" /><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </span>
-    <span><a href="https://github.com/Lotar-lucas" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></span>
-  </div>
+  <span>
+    <a href="https://www.linkedin.com/in/lucaslotar/" >
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
+
+  <span>
+    <a href="https://twitter.com/LLotar" >
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+  </span>
+  <span>
+    <a href="https://www.instagram.com/l_lotar/?hl=pt-br" >
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+  </span>
+  <span>
+    <a href="https://github.com/Lotar-lucas" >
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  />
+      </a>
+    </span>
+</div>
   
   <ul>
     <li></li>
