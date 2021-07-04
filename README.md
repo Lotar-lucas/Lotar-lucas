@@ -25,8 +25,8 @@
   
   <ul>
     <li>Meu nome é Lucas Lotar e tenho 25 anos, moro na cidade de Alvorada-RS, um amante por estudar estudar :alien:</li>
-    <li>Faço parte de uma escola de programação chamada [Trybe](https://www.betrybe.com/) onde aprendo hard & soft skills, lá a metodologia é focada na prática.</li>
-    <li>Faço tambem Análise e Desenvolvimento de Sistemas na [Faculdades QI Brasil - FAQI](https://qi.edu.br/) onde ja passei pelas disciplinas de Banco de dados, Engenharia de software. Gestão de T.I,Qualidade de software, entre outras...</li>
+    <li>Faço parte de uma escola de programação chamada <strong><a href="https://www.betrybe.com/">Trybe</a></strong> onde aprendo hard & soft skills, lá a metodologia é focada na prática.</li>
+    <li>Faço tambem Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong> onde ja estudei Banco de dados, Engenharia de software. Gestão de T.I, Qualidade de software, Gestão de projetos, etc...</li>
     <li>Hoje meu foco é ter uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e bons softwares</li>
     <li>Como 99% da pessoas desenvolvedoras sou viciado em café :coffee:</li>
   </ul>
