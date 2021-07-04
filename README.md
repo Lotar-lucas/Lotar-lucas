@@ -24,30 +24,21 @@
 </div>
   
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Meu nome é Lucas Lotar e tenho 25 anos, moro na cidade de Alvorada-RS, um amante por estudar estudar :alien:</li>
+    <li>Faço parte de uma escola de programação chamada [Trybe](https://www.betrybe.com/) onde aprendo hard & soft skills, lá a metodologia é focada na prática.</li>
+    <li>Faço tambem Análise e Desenvolvimento de Sistemas na [Faculdades QI Brasil - FAQI](https://qi.edu.br/) onde ja passei pelas disciplinas de Banco de dados, Engenharia de software. Gestão de T.I,Qualidade de software, entre outras...</li>
+    <li>Hoje meu foco é ter uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e bons softwares</li>
+    <li>Como 99% da pessoas desenvolvedoras sou viciado em café :coffee:</li>
   </ul>
   
-  
+  <h1 align="center"> :computer: Tecnologias & Ferramentas :wrench: </h1>
 </main>
 
 <!-- <a href="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif"> 
   <img align="center" src="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif" width="65%" />
  </a> -->
 
-* Meu nome é Lucas Lotar e tenho 25 anos, moro na cidade de Alvorada-RS, um amante por estudar estudar :alien:
 
-* Faço parte de uma escola de programação chamada [Trybe](https://www.betrybe.com/) onde aprendo hard & soft skills, lá a metodologia é focada na prática.
-
-* Faço tambem Análise e Desenvolvimento de Sistemas na [Faculdades QI Brasil - FAQI](https://qi.edu.br/) onde ja passei pelas disciplinas de Banco de dados, Engenharia de software. Gestão de T.I,Qualidade de software, entre outras...
-
-* Hoje meu foco é ter uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e bons softwares
-
-* E como 99% da pessoas desenvolvedoras sou viciado em café :coffee:
-
-<h1 align="center"> :computer: Tecnologias & Ferramentas :wrench: </h1>
 
 <a href="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif"> 
   <img align="right" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="35%"  />
