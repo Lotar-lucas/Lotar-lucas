@@ -1,10 +1,9 @@
 <main>
-  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50%" height="30%"/>
-  
+  <h1>Oi visitante! 👨‍💻</h1>
   <section>
-    <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="20%" height="20%"/>
+    <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Meu nome é Lucas Lotar 25 anos, moro em Alvorada-RS, pessoa comunicativa e com foco em gerar valor</li>
+      <li>Meu nome é Lucas Lotar tenho 25 anos, moro em Alvorada-RS, pessoa comunicativa e com foco em gerar valor</li>
       <br>
       <li>Estudo na escola de programação <strong><a href="https://www.betrybe.com/">Trybe</a></strong> lá aprendo hard & soft skills, e a metodologia é focada na prática.</li>
       <br>
@@ -12,45 +11,47 @@
       <br>
       <li>Hoje tenho foco em uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e  softwares</li>
       <br>
-      <li>Meus gostos são música, estudo, leitura, games, café, filmes & séries e exercícios 🎧:</li>
+      <li>Meus gostos são música, estudo, leitura, games, café, filmes & séries e exercícios 🏋️</li>
     </ul>
   </section>
+  <section>
+    <h2>O que ando escutando ?! </h2>
+  </section>
   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&redirect=true)
   
   <br>
-  
-  <div>
-  <span>
+  <h2>Me contate</h2>
+  <div align="left">
+  <span  >
     <a href="https://www.linkedin.com/in/lucaslotar/" >
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
     </a>
   </span>
-
   <span>
     <a href="https://twitter.com/LLotar" >
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" width="4%"/>
     </a>
   </span>
   <span>
     <a href="https://www.instagram.com/l_lotar/?hl=pt-br" >
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
       </a>
   </span>
   <span>
-    <a href="https://github.com/Lotar-lucas" >
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  />
+    <a href="mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20iniciado%20por%20github">
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
       </a>
     </span>
-</div> 
-  <h1 align="center"> :computer: Tecnologias & Ferramentas :wrench: </h1>
-
-
-
- <div>
+    <br>
+    <br>
+    
+ <div align="left">
+   <h2 align="left"> Tecnologias :computer:  </h2>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4%" />
    </a>
-   <a href="https://pt-br.reactjs.org/"> 
+   <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="5%" />
    </a>
    <a href="https://redux.js.org/"> 
@@ -84,39 +85,17 @@
       <img src="https://image.flaticon.com/icons/png/512/29/29165.png" width="5%"/>
    </a>
  </div>
- 
 
-  
-  
+  <br><br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
+   <br><br>
+  <h2 align="left"> Portfólio </h2>
+  :construction: *Em construção...* 
 
-
-
-  
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=compact&theme=midnight-purple&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+  <br><br>
+  <h2 align="left"> Projetos </h2>
+    :construction: *Em construção...* 
 </main>
- 
 
-<a href="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif"> 
-  <img align="left" src="https://media.giphy.com/media/pv9vqIFuUD44TdnR73/giphy.gif" width="35%" height="180px" />
- </a>
 
-<!-- * :headphones: Sou apaixonado por escutar música e extremamente eclético;
-* :book: Ler bons livros, hoje principalmente sobre tecnologia, finanças e desenvolvimento pessoal;
-* :movie_camera: Assistir séries e filmes, de super-herói, magia, ficção ou uma boa dose de ação.
-* :video_game: Jogar games com boa história;
-* :runner: Atividade física pratico de musculação e corrida. -->
-
-<h1 align="center"> Portfólio </h1>
-:construction: *Em construção...* 
-
--------------------------------------------------------------------------------------------------------------------------
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&redirect=true)
