@@ -49,25 +49,25 @@
  <div align="left">
    <h2 align="left"> Tecnologias :computer:  </h2>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" />
    </a>
    <a href="https://pt-br.reactjs.org/" > 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="5%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
    </a>
    <a href="https://redux.js.org/"> 
-      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="8%" />
+      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
    </a>
    <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
-      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="8%" />
+      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="9%" />
    </a>
    <a href="https://reactrouter.com/"> 
-      <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="8%" />
+      <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="9%" />
    </a>
    <a href="https://jestjs.io/"> 
-      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="3%" />
+      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="4%" />
    </a>
    <a href="https://testing-library.com/docs/react-testing-library/intro"> 
-      <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="4%" />
+      <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="5%" />
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" />
