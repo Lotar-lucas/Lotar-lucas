@@ -49,7 +49,11 @@
   <img align="right" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="10%"  />
  </a>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />     
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4%" height="4%" /> 
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" width="8%" height="5%" />
+  <img src="" width="8%" height="8%" /> 
+  <img src="" width="8%" height="8%" /> 
+  <img src="" width="8%" height="8%" /> 
   
   
   
