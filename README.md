@@ -1,4 +1,24 @@
 <main>
+  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50%" height="30%"/>
+  
+  <section>
+    <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="20%" height="20%"/>
+    <ul align="left">
+      <li>Meu nome é Lucas Lotar 25 anos, moro em Alvorada-RS, pessoa comunicativa e com foco em gerar valor</li>
+      <br>
+      <li>Estudo na escola de programação <strong><a href="https://www.betrybe.com/">Trybe</a></strong> lá aprendo hard & soft skills, e a metodologia é focada na prática.</li>
+      <br>
+      <li>Faço tambem Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong> onde ja estudei Banco de dados, Engenharia de software. Gestão de T.I, Qualidade de software, Gestão de projetos, etc...</li>
+      <br>
+      <li>Hoje tenho foco em uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e  softwares</li>
+      <br>
+      <li>Meus gostos são música, estudo, leitura, games, café, filmes & séries e exercícios 🎧:</li>
+    </ul>
+  </section>
+  
+  
+  <br>
+  
   <div>
   <span>
     <a href="https://www.linkedin.com/in/lucaslotar/" >
@@ -21,33 +41,10 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  />
       </a>
     </span>
-</div>
-  
-  <ul>
-    <li>Meu nome é Lucas Lotar 25 anos, moro em Alvorada-RS, pessoa comunicativa e com foco em gerar valor</li>
-    <br>
-    <li>Estudo na escola de programação <strong><a href="https://www.betrybe.com/">Trybe</a></strong> lá aprendo hard & soft skills, e a metodologia é focada na prática.</li>
-    <br>
-    <li>Faço tambem Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong> onde ja estudei Banco de dados, Engenharia de software. Gestão de T.I, Qualidade de software, Gestão de projetos, etc...</li>
-    <br>
-    <li>Hoje tenho foco em uma oportunidade na área de desenvolvimento de software, quero poder gerar valor para empresas e pessoas através de linha de código e  softwares</li>
-    <br>
-    <li>Meus gostos são música, estudo, leitura, games, café, filmes & séries e exercícios 🎧:</li>
-  </ul>
-  <br>
-  
+</div> 
   <h1 align="center"> :computer: Tecnologias & Ferramentas :wrench: </h1>
 
 
-<!-- <a href="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif"> 
-  <img align="center" src="https://media.giphy.com/media/lpnJDo7ExzUymI3JEv/giphy.gif" width="65%" />
- </a> -->
-
-
-
-<a href="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif"> 
-  <img align="right" src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" width="10%"  />
- </a>
 
  <div>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
@@ -88,10 +85,6 @@
    </a>
  </div>
  
-  
-  
-   
-  
 
   
   
