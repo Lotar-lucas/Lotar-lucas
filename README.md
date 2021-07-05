@@ -15,7 +15,7 @@
     </ul>
   </section>
   <section>
-    <h2>O que ando escutando ?! </h2>
+    <h2>O que ando escutando ? </h2>
   </section>
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&redirect=true)
