@@ -65,10 +65,34 @@
    <a href="https://reactrouter.com/"> 
       <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="8%" />
    </a>
+   <a href="https://jestjs.io/"> 
+      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="3%" />
+   </a>
+   <a href="https://testing-library.com/docs/react-testing-library/intro"> 
+      <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="4%" />
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" />
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%" />
+   </a>
+   <a href="https://git-scm.com/"> 
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" />
+   </a>
+   <a href="https://git-scm.com/"> 
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" />
+   </a>
+   <a href="https://getbootstrap.com/"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
+   </a>
+   
    
    
   </div>
  
+  
+  
    
   <img src="" width="30px"  />
 <!--   <img src="https://img2.pngio.com/redux-react-javascript-vuejs-single-page-application-png-redux-png-820_500.jpg" width="8%" height="8%"  /> 
