@@ -58,7 +58,7 @@
       <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
    </a>
    <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
-      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="9%" />
+      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
    </a>
    <a href="https://reactrouter.com/"> 
       <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="9%" />
