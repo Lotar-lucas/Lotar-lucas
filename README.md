@@ -11,7 +11,7 @@
       <br>
       <li>Hoje, possuo foco em uma oportunidade na área de desenvolvimento de software para poder gerar valor para empresa e pessoas, através de linhas de códigos e softwares. </li>
       <br>
-      <li>Meus hobbies são músicas, estudos, leituras, games, café, filmes & séries e exercícios. 🏋️</li>
+      <li>Meus hobbies são músicas, estudos, leituras, games, filmes & séries e exercícios. 🏋️</li>
     </ul>
   </section>
   <section>
