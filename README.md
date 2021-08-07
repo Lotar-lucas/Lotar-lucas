@@ -82,7 +82,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
    <a href="#"> 
-      <img src="https://image.flaticon.com/icons/png/512/29/29165.png" width="5%"/>
+      <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="4%"/>
    </a>
  </div>
 
