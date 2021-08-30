@@ -82,8 +82,14 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
    <a href="#"> 
-      <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="4%"/>
+      <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="5%"/>
    </a>
+    <a href="https://www.mongodb.com/pt-br"> 
+      <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="8%"/>
+   </a>
+   
+   
+   
  </div>
 
   <br><br>
