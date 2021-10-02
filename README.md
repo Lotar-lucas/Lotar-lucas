@@ -51,6 +51,9 @@
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" />
    </a>
+    <a href="https://nodejs.org/en/"> 
+      <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="5%"/>
+   </a>
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
    </a>
@@ -87,6 +90,12 @@
     <a href="https://www.mongodb.com/pt-br"> 
       <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="8%"/>
    </a>
+   
+   
+   
+   
+   
+   
    
    
    
