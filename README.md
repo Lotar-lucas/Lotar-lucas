@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Lotar-lucas)
 <main>
   <h1>Oi visitante! 👨‍💻</h1>
   <section>
