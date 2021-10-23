@@ -40,7 +40,7 @@
       </a>
   </span>
   <span>
-    <a href="mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20iniciado%20por%20github">
+    <a href="mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20realizado%20pelo%20github">
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
       </a>
     </span>
