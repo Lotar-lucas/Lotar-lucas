@@ -6,7 +6,7 @@
     <ul align="left">
       <li>Meu nome é Lucas Lotar tenho 25 anos, moro na cidade de Alvorada-RS, sou uma pessoa comunicativa e com foco em gerar valor.</li>
       <br>
-      <li>Realizei o curso da <strong><a href="https://www.betrybe.com/">Trybe</a></strong>, uma escola de programação onde foi trabalhado hard & soft skills. A metodologia de ensino é focada totalmente na prática.</li>
+      <li>Realizei o curso de programação da <strong><a href="https://www.betrybe.com/">Trybe</a></strong>, onde foi trabalhado hard & soft skills. Lá a metodologia de ensino é focada totalmente na prática.</li>
       <br>
       <li>Estou cursando também, Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong> onde já estudei Banco de dados; Engenharia de software; Gestão de T.I; Qualidade de software; Gestão de projetos; entre outros.</li>
       <br>
