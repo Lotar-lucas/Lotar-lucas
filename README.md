@@ -10,7 +10,7 @@
       <br>
       <li>Cursando Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong>.</li>
       <br>
-      <li>Hoje, meu foco é gerar valor para empresa e pessoas através de desenvolvimento de software. </li>
+      <li>Hoje meu foco esta em gerar valor para empresa e pessoas através de desenvolvimento de software. </li>
       <br>
       <li>Meus hobbies são músicas, estudos, leituras, games, filmes, séries e exercícios. 🏋️</li>
     </ul>
