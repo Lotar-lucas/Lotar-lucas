@@ -4,13 +4,13 @@
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Meu nome é Lucas Lotar tenho 25 anos, moro na cidade de Alvorada-RS, sou uma pessoa comunicativa e com foco em gerar valor.</li>
+      <li>Meu nome é Lucas Lotar tenho 26 anos, moro na cidade de Alvorada-RS, sou uma pessoa comunicativa e com foco em gerar valor.</li>
       <br>
       <li>Realizei o curso de programação da <strong><a href="https://www.betrybe.com/">Trybe</a></strong>, onde foi trabalhado hard & soft skills. Lá a metodologia de ensino é focada totalmente na prática.</li>
       <br>
-      <li>Estou cursando também, Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong> onde já estudei Banco de dados; Engenharia de software; Gestão de T.I; Qualidade de software; Gestão de projetos; entre outros.</li>
+      <li>Cursando Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong>.</li>
       <br>
-      <li>Hoje, possuo foco em uma oportunidade na área de desenvolvimento de software para poder gerar valor para empresa e pessoas, através de linhas de códigos e softwares. </li>
+      <li>Hoje, meu foco é gerar valor para empresa e pessoas através de desenvolvimento de software. </li>
       <br>
       <li>Meus hobbies são músicas, estudos, leituras, games, filmes, séries e exercícios. 🏋️</li>
     </ul>
