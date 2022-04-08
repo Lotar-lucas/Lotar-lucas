@@ -98,24 +98,11 @@
       <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="9%" />
    </a>
    
-    
-   
-  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
  </div>
 
   <br><br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucashide=html)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 </main>
 
 
