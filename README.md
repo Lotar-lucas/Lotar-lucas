@@ -73,13 +73,13 @@
    <br>
    
    <h3>Back-end </h3>
-      <a href="https://nodejs.org/en/"> 
-          <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="4.5%"/>
-      </a>
+    <a href="https://nodejs.org/en/"> 
+        <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="4.5%"/>
+    </a>
 
-     <a href="https://expressjs.com/"> 
-        <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
-     </a>
+   <a href="https://expressjs.com/"> 
+      <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
+   </a>
    
    
    <br>
@@ -104,7 +104,7 @@
 
     <a href="https://www.mysql.com/"> 
       <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="4%"/>
-   </a>
+    </a>
    
    
     
