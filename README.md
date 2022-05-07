@@ -57,14 +57,14 @@
     </a>
    
    <a href="https://vuejs.org/"> 
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="8%" />
+      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="9%" />
    </a>
    
    <a href="https://vuetifyjs.com/en/"> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCCBONBv_NQYQdtgFiKF57L-GLn0-cxh1uaekgmhryBEElOI_v_4d2vNySiwXaar99hw&usqp=CAU" width="12%" />
    </a> 
   <a href="https://nuxtjs.org/"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/221px-Nuxt_logo_%282021%29.svg.png?20220211125741" width="12%" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/221px-Nuxt_logo_%282021%29.svg.png?20220211125741" width="15%" />
   </a>
    
    <a href="https://pt-br.reactjs.org/" > 
