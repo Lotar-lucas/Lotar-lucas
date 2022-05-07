@@ -56,17 +56,17 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4.5%" />
       </a>
     
-     <a href="https://pt-br.reactjs.org/" > 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
-     </a>
+   <a href="https://pt-br.reactjs.org/" > 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
+   </a>
    
-     <a href="https://redux.js.org/"> 
-        <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
-     </a>
+   <a href="https://redux.js.org/"> 
+      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
+   </a>
    
-     <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
-        <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
-     </a>
+   <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
+      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
+   </a>
    
    <br>
    <br>
