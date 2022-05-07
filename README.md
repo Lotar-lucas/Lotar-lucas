@@ -59,6 +59,13 @@
    <a href="https://vuejs.org/"> 
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="8%" />
    </a>
+   
+   <a href="https://vuetifyjs.com/en/"> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCCBONBv_NQYQdtgFiKF57L-GLn0-cxh1uaekgmhryBEElOI_v_4d2vNySiwXaar99hw&usqp=CAU" width="8%" />
+   </a>
+   
+   
+   
     
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
