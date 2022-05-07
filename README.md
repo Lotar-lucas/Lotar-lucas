@@ -112,7 +112,7 @@
    <br>
    <h3>Banco de Dados </h3>
     <a href="https://www.postgresql.org/"> 
-        <img src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png" width="9%"/>
+        <img src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png" width="4.5%"/>
     </a>
     <a href="https://www.mongodb.com/pt-br"> 
          <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
