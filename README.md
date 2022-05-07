@@ -52,53 +52,75 @@
    
    
    <h3>Front-end </h3>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4.5%" />
-   </a>
-    <a href="https://nodejs.org/en/"> 
-      <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="4.5%"/>
-   </a>
-   <a href="https://pt-br.reactjs.org/" > 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
-   </a>
-    <a href="https://expressjs.com/"> 
-      <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
-   </a>
-   <a href="https://redux.js.org/"> 
-      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
-   </a>
-   <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
-      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
-   </a>
-   <a href="https://www.mongodb.com/pt-br"> 
-      <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
-   </a>
-   <a href="https://www.mysql.com/"> 
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4.5%" />
+      </a>
+    
+     <a href="https://pt-br.reactjs.org/" > 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
+     </a>
+   
+     <a href="https://redux.js.org/"> 
+        <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
+     </a>
+   
+     <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
+        <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
+     </a>
+   
+   <br>
+   <br>
+   <br>
+   
+   <h3>Back-end </h3>
+        <a href="https://nodejs.org/en/"> 
+            <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="4.5%"/>
+        </a>
+   
+       <a href="https://expressjs.com/"> 
+          <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
+       </a>
+   
+   
+   <br>
+   <br>
+   <br>
+   <h3>Testes </h3>
+   
+      <a href="https://jestjs.io/"> 
+          <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="4%" />
+      </a>
+   
+     <a href="https://testing-library.com/docs/react-testing-library/intro"> 
+        <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="5%" />
+     </a>
+
+   <br>
+   <br>
+   <br>
+   <h3>Banco de Dados </h3>
+   
+      <a href="https://www.mongodb.com/pt-br"> 
+          <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
+      </a>
+   
+      <a href="https://www.mysql.com/"> 
       <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="4%"/>
    </a>
-   <br>
-   <br>
-   <br>
-   <a href="https://jestjs.io/"> 
-      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="4%" />
-   </a>
-   <a href="https://testing-library.com/docs/react-testing-library/intro"> 
-      <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="5%" />
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" />
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%" />
-   </a>
+   
+   
+    
+   
+   
+   
+   
+  
+   
    <a href="https://git-scm.com/"> 
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" />
    </a>
    <a href="https://getbootstrap.com/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
-   </a>
-   <a href="https://reactrouter.com/"> 
-      <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="9%" />
    </a>
    
  </div>
