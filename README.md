@@ -57,7 +57,7 @@
     </a>
    
    <a href="https://vuejs.org/"> 
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="10%" />
+      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="8%" />
    </a>
     
    <a href="https://pt-br.reactjs.org/" > 
