@@ -74,7 +74,7 @@
    
    <h3>Back-end </h3>
     <a href="https://nodejs.org/en/"> 
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnodejs.org%2Fpt-br%2Fabout%2Fresources%2F&psig=AOvVaw0rkoCxoGirsvs0s3faPqnT&ust=1652040183115000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiVv9WXzvcCFQAAAAAdAAAAABAK" width="4.5%"/>
+        <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.ai" width="4.5%"/>
     </a>
 
  <a href="https://expressjs.com/"> 
