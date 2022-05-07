@@ -61,16 +61,12 @@
    </a>
    
    <a href="https://vuetifyjs.com/en/"> 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCCBONBv_NQYQdtgFiKF57L-GLn0-cxh1uaekgmhryBEElOI_v_4d2vNySiwXaar99hw&usqp=CAU" width="10%" />
-   </a>
-   
-    <a href="https://nuxtjs.org/"> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCCBONBv_NQYQdtgFiKF57L-GLn0-cxh1uaekgmhryBEElOI_v_4d2vNySiwXaar99hw&usqp=CAU" width="12%" />
+   </a> 
+  <a href="https://nuxtjs.org/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/221px-Nuxt_logo_%282021%29.svg.png?20220211125741" width="12%" />
-   </a>
+  </a>
    
-   
-   
-  
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
    </a>
