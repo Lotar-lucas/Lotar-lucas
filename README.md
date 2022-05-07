@@ -55,6 +55,10 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4.5%" />
     </a>
+   
+   <a href="https://vuejs.org/"> 
+      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="10%" />
+   </a>
     
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
@@ -77,9 +81,9 @@
         <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="8%"/>
     </a>
 
- <a href="https://expressjs.com/"> 
-    <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
- </a>
+   <a href="https://expressjs.com/"> 
+      <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
+   </a>
    
    
    <br>
@@ -104,21 +108,6 @@
     <a href="https://www.mysql.com/"> 
         <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="4%"/>
     </a>
-   
-   
-    
-   
-   
-   
-   
-  
-   
-   <a href="https://git-scm.com/"> 
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" />
-   </a>
-   <a href="https://getbootstrap.com/"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
-   </a>
    
  </div>
 
