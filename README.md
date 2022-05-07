@@ -68,6 +68,7 @@
   </a>
    
    <br>
+   <br>
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
    </a>
@@ -113,12 +114,12 @@
     <a href="https://www.postgresql.org/"> 
         <img src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png" width="9%"/>
     </a>
-
     <a href="https://www.mongodb.com/pt-br"> 
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
+         <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
     </a>
+
     <a href="https://www.mysql.com/"> 
-        <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="6%"/>
+         <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="6%"/>
     </a>
    
  </div>
