@@ -10,9 +10,9 @@
       <br>
       <li>Cursando Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong>.</li>
       <br>
-      <li>Hoje meu foco esta em gerar valor para empresa e pessoas através de desenvolvimento de software. </li>
+      <li>Hoje meu foco esta em gerar valor para empresas e pessoas através de desenvolvimento de software. </li>
       <br>
-      <li>Meus hobbies são músicas, estudos, leituras, games, filmes, séries e exercícios. 🏋️</li>
+      <li>Meus hobbies são músicas, estudar, exercícios, games, filmes e séries 🏋️</li>
     </ul>
   </section>
   <section>
@@ -49,6 +49,9 @@
     
  <div align="left">
    <h2 align="left"> Tecnologias :computer:  </h2>
+   
+   
+   <h3>Front-end </h3>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4.5%" />
    </a>
