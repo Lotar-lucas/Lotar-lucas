@@ -101,7 +101,6 @@
     <a href="https://www.mongodb.com/pt-br"> 
         <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
     </a>
-
     <a href="https://www.mysql.com/"> 
         <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="4%"/>
     </a>
