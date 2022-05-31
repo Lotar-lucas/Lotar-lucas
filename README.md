@@ -70,7 +70,7 @@
    <br>
    <br>
    <a href="https://pt-br.reactjs.org/" > 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6cgVs5L3qwfoR6kw4J7q-AM9mY5lbfGS9-VqKDEjRmw67_3pIeqGzPaUh0zz1K1sLgs&usqp=CAU" width="6%" />
    </a>
    
    <a href="https://redux.js.org/"> 
