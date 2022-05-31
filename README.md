@@ -70,15 +70,15 @@
    <br>
    <br>
    <a href="https://pt-br.reactjs.org/" > 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6cgVs5L3qwfoR6kw4J7q-AM9mY5lbfGS9-VqKDEjRmw67_3pIeqGzPaUh0zz1K1sLgs&usqp=CAU" width="6%" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6cgVs5L3qwfoR6kw4J7q-AM9mY5lbfGS9-VqKDEjRmw67_3pIeqGzPaUh0zz1K1sLgs&usqp=CAU" width="9%" />
    </a>
    
    <a href="https://redux.js.org/"> 
-      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
+      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9.5%" />
    </a>
    
    <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
-      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
+      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10.5%" />
    </a>
    
    <br>
