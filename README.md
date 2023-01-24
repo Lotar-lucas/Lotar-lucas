@@ -4,7 +4,7 @@
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Meu nome é Lucas Lotar tenho 26 anos, moro na cidade de Alvorada-RS, sou uma pessoa comunicativa e com foco em gerar valor.</li>
+      <li>Meu nome é Lucas Lotar tenho 27 anos, de Alvorada-RS, sou uma pessoa comunicativa e com foco em gerar valor.</li>
       <br>
       <li>Realizei o curso da <strong><a href="https://www.betrybe.com/">Trybe</a></strong>, onde foi trabalhado hard & soft skills. Com muito foco na prática.</li>
       <br>
