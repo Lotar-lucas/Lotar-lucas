@@ -12,7 +12,7 @@
       <br>
       <li>Hoje meu foco esta em gerar valor para empresas e pessoas através de desenvolvimento de software. </li>
       <br>
-      <li>Meus hobbies são escutar músicas, praticar exercícios, jogar games e assitir bons filmes e séries</li>
+      <li>Meus hobbies são escutar músicas, praticar exercícios, jogar games e assitir filmes e séries</li>
     </ul>
   </section>
   <section>
