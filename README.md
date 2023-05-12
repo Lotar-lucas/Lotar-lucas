@@ -8,7 +8,7 @@
       <br>
       <li>Realizei o curso da <strong><a href="https://www.betrybe.com/">Trybe</a></strong>, onde foi trabalhado hard & soft skills. Com muito foco na prática.</li>
       <br>
-      <li>Cursei Análise e Desenvolvimento de Sistemas na <strong><a href="https://qi.edu.br/">Faculdades QI Brasil - FAQI</a></strong>.</li>
+      <li>Pós-graduando Engenharia de Software na <strong><a href="[Unisinos](https://www.unisinos.br/)">Faculdades QI Brasil - FAQI</a></strong>.</li>
       <br>
       <li>Hoje meu foco esta em gerar valor para empresas e pessoas através de desenvolvimento de software. </li>
       <br>
