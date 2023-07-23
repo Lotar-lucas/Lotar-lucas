@@ -4,15 +4,13 @@
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Meu nome é Lucas Lotar tenho 27 anos, de Alvorada-RS, sou uma pessoa comunicativa e com foco em gerar valor.</li>
+      <li>Meu nome é Lucas Lotar tenho 27 anos, de Alvorada-RS, sou um desenvolvedor comunicativo com foco em gerar valor.</li>
       <br>
-      <li>Realizei o curso da <strong><a href="https://www.betrybe.com/">Trybe</a></strong>, onde foi trabalhado hard & soft skills. Com muito foco na prática.</li>
+      <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduando Engenharia de Software na <strong><a href="https://www.unisinos.br/">Unisinos</a></strong>.</li>
       <br>
-      <li>Pós-graduando Engenharia de Software na <strong><a href="https://www.unisinos.br/">Unisinos</a></strong>.</li>
+      <li>Hoje meu foco esta em gerar valor para empresas e pessoas através do desenvolvimento de software. </li>
       <br>
-      <li>Hoje meu foco esta em gerar valor para empresas e pessoas através de desenvolvimento de software. </li>
-      <br>
-      <li>Meus hobbies são escutar músicas, praticar exercícios, jogar games e assitir filmes e séries</li>
+      <li>Meus hobbies são músicas, exercícios, jogar e assitir filmes e séries</li>
     </ul>
   </section>
   <section>
