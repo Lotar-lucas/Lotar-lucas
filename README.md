@@ -19,7 +19,6 @@
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=12177144125&redirect=true)
   
-  <br>
   <h2>Me contate</h2>
   <div align="left">
   <span  >
@@ -43,11 +42,9 @@
       </a>
     </span>
     <br>
-    <br>
     
  <div align="left">
    <h2 align="left"> Tecnologias :computer:  </h2>
-   
    
    <h3>Front-end </h3>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
@@ -66,7 +63,6 @@
   </a>
    
    <br>
-   <br>
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6cgVs5L3qwfoR6kw4J7q-AM9mY5lbfGS9-VqKDEjRmw67_3pIeqGzPaUh0zz1K1sLgs&usqp=CAU" width="9%" />
    </a>
@@ -80,8 +76,6 @@
    </a>
    
    <br>
-   <br>
-   <br>
    
    <h3>Back-end </h3>
     <a href="https://nodejs.org/en/"> 
@@ -94,8 +88,6 @@
    
    
    <br>
-   <br>
-   <br>
    <h3>Testes </h3>
     <a href="https://jestjs.io/"> 
         <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="4%" />
@@ -105,8 +97,6 @@
       <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="5%" />
    </a>
 
-   <br>
-   <br>
    <br>
    <h3>Banco de Dados </h3>
     <a href="https://www.postgresql.org/"> 
@@ -121,7 +111,7 @@
    
  </div>
 
-  <br><br>
+  <br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 </main>
