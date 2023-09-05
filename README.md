@@ -59,7 +59,7 @@
   </a>
 </div>
    
-<div>
+<div align="left">
   <h3>Back-end </h3>
   <a href="https://nodejs.org/en/"> 
     <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="8%"/>
