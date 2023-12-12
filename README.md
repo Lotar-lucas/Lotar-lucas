@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Lotar-lucas)
 <main>
-  <h1>Oi visitante! 👨‍💻</h1>
+  <h1>Oi! 👨‍💻</h1>
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
