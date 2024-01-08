@@ -19,58 +19,35 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20realizado%20pelo%20github)
 [<img src="https://img.shields.io/github/followers/Lotar-lucas?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Lotar-lucas)
     
-<div align="left">
-  <h2 align="left"> Tecnologias :computer:  </h2>
+<div align="left" style="display">
+  <h2 align="left"> Principais Tecnologias :computer:  </h2>
 
 <div align="left">
-  <h3>Front-end </h3>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="4.5%" />
-  </a>
-   
-  <a href="https://vuejs.org/"> 
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="9%" />
-  </a>
-   
-  <a href="https://nuxtjs.org/"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/221px-Nuxt_logo_%282021%29.svg.png?20220211125741" width="15%" />
-  </a>
-   
-  <a href="https://pt-br.reactjs.org/" > 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6cgVs5L3qwfoR6kw4J7q-AM9mY5lbfGS9-VqKDEjRmw67_3pIeqGzPaUh0zz1K1sLgs&usqp=CAU" width="9%" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/React.js-gray?style=flat&logo=react"/>
 </div>
    
 <div align="left">
-  <h3>Back-end </h3>
-  <a href="https://nodejs.org/en/"> 
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="8%"/>
-  </a>
-
-  <a href="https://expressjs.com/"> 
-    <img src="https://expressjs.com/images/express-facebook-share.png" width="12.5%"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=Node.js" href="https://nodejs.org/en/"/>
+  <img src="https://img.shields.io/badge/Express.js-gray?logo=Express.&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Jest.js-gray?logo=jest&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Java-gray?&logo=java&logoColor=red"/>
 </div>
-   
-<h3>Testes </h3>
-<a href="https://jestjs.io/"> 
-    <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="4%" />
-</a>
 
-<a href="https://testing-library.com/docs/react-testing-library/intro"> 
-  <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="5%" />
-</a>
-  
-<h3>Banco de Dados </h3>
-<a href="https://www.postgresql.org/"> 
-    <img src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png" width="6%"/>
-</a>
-<a href="https://www.mysql.com/"> 
-     <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="6%"/>
-</a>
-<a href="https://www.mongodb.com/pt-br">
-     <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="9%"/>
-</a>
+<div align="left">
+  <img src="https://img.shields.io/badge/postgreSQL-gray?logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-gray?logo=mysql"/>
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Git-gray?&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Github-gray?&logo=github&logoColor=white"/>
+</div>
+<br>
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&show_icons=true&theme=onedark&hide=html&&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </div>
