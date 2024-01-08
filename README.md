@@ -4,9 +4,9 @@
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Sou o Lucas Lotar, 27 anos, de Alvorada-RS, sou um desenvolvedor comunicativo com foco em gerar valor.</li>
+      <li>Meu nome é Lucas Lotar, 28 anos, de Alvorada-RS, sou um desenvolvedor comunicativo com foco em gerar valor.</li>
       <br>
-      <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduando Engenharia de Software na <strong><a href="https://www.unisinos.br/">Unisinos</a></strong>.</li>
+      <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Software.</li>
       <br>
       <li>Hoje meu foco esta em gerar valor para empresas e pessoas através do desenvolvimento de software. </li>
       <br>
