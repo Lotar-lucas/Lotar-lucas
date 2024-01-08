@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Lotar-lucas)
 <main>
-  <h1>Oi! 👨‍💻</h1>
+  <h1>Olá! 👨‍💻</h1>
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
@@ -13,29 +13,11 @@
       <li>Meus hobbies são músicas, exercícios e games</li>
     </ul>
   </section>
-  
- <h2>Contatos</h2>
-  <div align="left">
-    <span  >
-      <a href="https://www.linkedin.com/in/lucaslotar/" >
-        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
-      </a>
-    </span>
-    <span>
-      <a href="https://twitter.com/LLotar" >
-        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/twitter.svg" width="4%"/>
-      </a>
-    </span>
-    <span>
-      <a href="https://www.instagram.com/l_lotar/?hl=pt-br" >
-        <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
-        </a>
-    </span>
-  <span>
-    <a href="mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20realizado%20pelo%20github">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
-    </a>
-  </span>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslotar/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/l_lotar/?hl=pt-br")
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20realizado%20pelo%20github)
+[<img src="https://img.shields.io/github/followers/Lotar-lucas?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Lotar-lucas)
     
 <div align="left">
   <h2 align="left"> Tecnologias :computer:  </h2>
