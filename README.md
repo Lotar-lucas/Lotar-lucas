@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=Lotar-lucas)
 <main>
-  <h1>Olá! 👨‍💻</h1>
+  <h1>Olá!</h1>
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Meu nome é Lucas Lotar, 28 anos, de Alvorada-RS, sou um desenvolvedor comunicativo com foco em gerar valor.</li>
+      <li>Lucas Lotar, 28 anos, desenvolvedor full stack com uma pitada de esportista! Natural de Porto Alegre-RS, atualmente em Alvorada-RS.</li>
       <br>
-      <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Software.</li>
+      <li>Formado em Análise e Desenvolvimento de Sistemas, com Pós-graduação em Engenharia de Software.</li>
       <br>
-      <li>Hoje meu foco esta em gerar valor para empresas e pessoas através do desenvolvimento de software. </li>
+      <li>Comprometido com a jornada de aprendizado contínuo, sou um desenvolvedor apaixonado por criar software impactante. Busco maneiras inovadoras de transformar desafios em soluções eficientes, proporcionando valor a empresas e clientes.</li>
       <br>
-      <li>Meus hobbies são músicas, exercícios e games</li>
+      <li>Meus hobbies incluem curtir boa música, praticar exercícios e esportes, e, claro, jogar 🎮.</li>
     </ul>
   </section>
 
