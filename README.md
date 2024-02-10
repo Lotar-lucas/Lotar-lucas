@@ -4,13 +4,13 @@
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Lucas Lotar, 28 anos, desenvolvedor full stack com uma pitada de esportista! Natural de Porto Alegre-RS, atualmente em Alvorada-RS.</li>
+      <li>Lucas Lotar, 28 anos, desenvolvedor full stack natural de Porto Alegre-RS, atualmente em Alvorada-RS.</li>
       <br>
       <li>Formado em Análise e Desenvolvimento de Sistemas, com Pós-graduação em Engenharia de Software.</li>
       <br>
       <li>Comprometido com a jornada de aprendizado contínuo, sou um desenvolvedor apaixonado por criar software impactante. Busco maneiras inovadoras de transformar desafios em soluções eficientes, proporcionando valor a empresas e clientes.</li>
       <br>
-      <li>Meus hobbies incluem curtir boa música, praticar exercícios e esportes, e, claro, jogar 🎮.</li>
+      <li>Meus hobbies incluem curtir boa música, praticar exercícios e, claro, jogar 🎮.</li>
     </ul>
   </section>
 
