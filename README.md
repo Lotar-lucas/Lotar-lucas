@@ -6,7 +6,7 @@
     <ul align="left">
       <li>Lucas Lotar, 28 anos, desenvolvedor full stack natural de Porto Alegre-RS, atualmente em Alvorada-RS.</li>
       <br>
-      <li>Formado em Análise e Desenvolvimento de Sistemas, com Pós-graduação em Engenharia de Software.</li>
+      <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Software.</li>
       <br>
       <li>Comprometido com a jornada de aprendizado contínuo, sou um desenvolvedor apaixonado por criar software impactante. Busco maneiras inovadoras de transformar desafios em soluções eficientes, proporcionando valor a empresas e clientes.</li>
       <br>
