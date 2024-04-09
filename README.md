@@ -4,7 +4,7 @@
   <section>
     <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
     <ul align="left">
-      <li>Lucas Lotar, 28 anos, desenvolvedor full stack natural de Porto Alegre-RS, atualmente em Alvorada-RS.</li>
+      <li>Lucas Lotar, 28 anos, desenvolvedor full stack natural de Porto Alegre-RS, atualmente em Canoas-RS.</li>
       <br>
       <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Software.</li>
       <br>
