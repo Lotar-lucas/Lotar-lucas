@@ -9,8 +9,6 @@
       <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Software.</li>
       <br>
       <li>Comprometido com a jornada de aprendizado contínuo, sou um desenvolvedor apaixonado por criar software impactante. Busco maneiras inovadoras de transformar desafios em soluções eficientes, proporcionando valor a empresas e clientes.</li>
-      <br>
-      <li>Meus hobbies incluem curtir boa música, praticar exercícios e, claro, jogar 🎮.</li>
     </ul>
   </section>
 
