@@ -1,7 +1,6 @@
 <main>
   <h1>Olá, visitante! Sou o Lotar. 👋</h1>
   <section>
-    <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="20%" height="20%"/>
     <ul align="left">
       <li>Sou um desenvolvedor de software web apaixonado por tecnologia, sempre em busca de novas tendências no desenvolvimento de software.  Trabalho hoje com TypeScript, JavaScript, Node, AWS e PostgreSQL e estou explorando o universo dos cloud providers.</li>
       <br>
@@ -41,5 +40,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=donut&show_icons=true&theme=holi&hide=html,css,ejs&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </main>
