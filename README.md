@@ -1,27 +1,24 @@
-![](https://komarev.com/ghpvc/?username=Lotar-lucas)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 <main>
-  <h1>Olá!</h1>
+  <h1>Olá, visitante! Sou o Lotar. 👋</h1>
   <section>
-    <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="30%" height="30%"/>
+    <img src="https://media.giphy.com/media/N4h9A9o5TcWmjdQZVJ/giphy.gif" align="right" width="20%" height="20%"/>
     <ul align="left">
-      <li>Lucas Lotar, 29 anos, desenvolvedor full stack natural de Porto Alegre-RS, atualmente em Canoas-RS.</li>
+      <li>Sou um desenvolvedor de software web apaixonado por tecnologia, sempre em busca de novas tendências no desenvolvimento de software.  Trabalho hoje com TypeScript, JavaScript, Node, AWS e PostgreSQL e estou explorando o universo dos cloud providers.</li>
       <br>
       <li>Formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Engenharia de Software.</li>
       <br>
-      <li>Comprometido com a jornada de aprendizado contínuo, sou um desenvolvedor apaixonado por criar software impactante. Busco maneiras inovadoras de transformar desafios em soluções eficientes, proporcionando valor a empresas e clientes.</li>
     </ul>
   </section>
+
+<h2 align="left"> Contato </h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslotar/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/l_lotar/?hl=pt-br")
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amaral.lucas.lotar@gmail.com?subject=Contato%20realizado%20pelo%20github)
+![](https://komarev.com/ghpvc/?username=Lotar-lucas)
     
 <div align="left" style="display">
-  <h2 align="left"> Principais Tecnologias :computer:  </h2>
-
+  <h2 align="left"> Tecnologias :computer:  </h2>
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,6 +40,6 @@
    
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&show_icons=true&theme=onedark&hide=html&&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=donut&show_icons=true&theme=holi&hide=html,css,ejs&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </main>
