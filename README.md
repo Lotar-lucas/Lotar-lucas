@@ -56,7 +56,7 @@ Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### 🧱 Arquitetura e Práticas
+#### Arquitetura e Práticas
 ![Microsserviços](https://img.shields.io/badge/Microsserviços-FF6F00?style=for-the-badge&logo=serverless&logoColor=white)
 ![Arquitetura em Camadas](https://img.shields.io/badge/Arquitetura%20em%20Camadas-2C5282?style=for-the-badge)
 ![Código modular](https://img.shields.io/badge/Código%20Modular-805AD5?style=for-the-badge)
