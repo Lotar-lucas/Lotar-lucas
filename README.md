@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou o Lotar 👋</h1>
 
 <p align="center">
-Desenvolvedor Back-end com mais de 3 anos de experiência em JavaScript, TypeScript e Node.js.<br>
+Desenvolvedor de software com mais de 3 anos de experiência em JavaScript, TypeScript e Node.js.<br>
 Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas e orquestração de tarefas assíncronas com AWS (Lambda, SQS, S3).
 </p>
 
@@ -20,7 +20,7 @@ Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas 
 ### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslotar/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-0A0A0A?style=flat&logo=github&logoColor=white)](https://lotar.dev.br)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0A0A0A?style=flat&logo=site&logoColor=white)](https://lotar.dev.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amaral.lucas.lotar@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Lotar-lucas)
 
@@ -36,6 +36,7 @@ Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas 
 #### **Linguagens e Banco de Dados**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,16 +56,16 @@ Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### **Arquitetura**
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=serverless&logoColor=white)
-![Camadas](https://img.shields.io/badge/Camadas-2C5282?style=for-the-badge)
-![Desacoplamento](https://img.shields.io/badge/Desacoplamento-805AD5?style=for-the-badge)
-
----
+#### 🧱 Arquitetura e Práticas
+![Microsserviços](https://img.shields.io/badge/Microsserviços-FF6F00?style=for-the-badge&logo=serverless&logoColor=white)
+![Arquitetura em Camadas](https://img.shields.io/badge/Arquitetura%20em%20Camadas-2C5282?style=for-the-badge)
+![Código modular](https://img.shields.io/badge/Código%20Modular-805AD5?style=for-the-badge)
+![Mensageria Assíncrona](https://img.shields.io/badge/Mensageria%20Assíncrona-FF4081?style=for-the-badge)
+![Testes Automatizados](https://img.shields.io/badge/Testes%20Automatizados-2196F3?style=for-the-badge)
 
 ### 📈 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=compact&theme=holi&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=donut&show_icons=true&theme=holi&hide=html,css,ejs&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
----
