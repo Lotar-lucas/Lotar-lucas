@@ -54,7 +54,6 @@ Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas 
 ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=mocha&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Arquitetura e Práticas
 ![Microsserviços](https://img.shields.io/badge/Microsserviços-FF6F00?style=for-the-badge&logo=serverless&logoColor=white)
