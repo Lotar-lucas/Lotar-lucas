@@ -9,7 +9,6 @@ Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas 
 
 ### 👨‍💻 Sobre mim
 
-- 💻 Atualmente atuo como Desenvolvedor de Software na +A Educação
 - 🚀 Especializado em back-end com Node.js, PostgreSQL e AWS (Lambda, SQS, S3)
 - 🧠 Pós-graduado em Engenharia de Software | Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🛠️ Foco em arquitetura de software, boas práticas, mensageria e testes automatizados
