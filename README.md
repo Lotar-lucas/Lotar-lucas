@@ -4,8 +4,6 @@ Desenvolvedor de Software Back-end com 4 anos de experiência, dedicados à cons
 
 Minha stack a que dedico a maior parte do meu tempo é Java e Spring Framework.
 
----
-
 ## Eu me concentro em buscar soluções através da:
 
 * Arquitetura de Microsserviços e APIs REST.
