@@ -1,8 +1,7 @@
-<h1 align="center">Olá! Sou o Lotar 👋</h1>
+<h1 align="center">OI👋</h1>
 
 <p align="center">
-Desenvolvedor de software com mais de 3 anos de experiência em JavaScript, TypeScript e Node.js.<br>
-Atuo na construção de APIs escaláveis com foco em desempenho, boas práticas e orquestração de tarefas assíncronas com AWS (Lambda, SQS, S3).
+Desenvolvedor de Software Back-end com **4 anos de experiência** dedicados à construção e evolução de APIs e sistemas escaláveis.
 </p>
 
 ---
