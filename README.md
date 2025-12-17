@@ -1,15 +1,8 @@
-# Oi, sou o Lotar👋
+# Oi👋
 
-Desenvolvedor de Software Back-end com 4 anos de experiência, dedicados à construção e evolução de APIs e sistemas escaláveis.
+Meu nome é Lucas Lotar, mas muitos me chamam somente de Lotar sou Desenvolvedor de Software Back-end com 4 anos de experiência, dedicados à construção e evolução de APIs e sistemas escaláveis.
 
 Minha stack a que dedico a maior parte do meu tempo é Java e Spring Framework.
-
-## Eu me concentro em buscar soluções através da:
-
-* Arquitetura de Microsserviços e APIs REST.
-* Implementação de soluções em Cloud, dominando serviços AWS (SQS, S3, Lambda) para processamento assíncrono.
-* Otimização de Performance em PostgreSQL para lidar com grandes volumes de dados.
-* Garantia de Qualidade e Confiabilidade por meio de testes automatizados.
 
 Possuo experiência com Node.js e TypeScript, o que me ajuda a ser versátil na escolha da solução técnica.
 
