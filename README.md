@@ -1,45 +1,50 @@
-# Oi👋
+# Lucas Lotar | Back-end Engineer
 
-Meu nome é Lucas Lotar, mas muitos me chamam somente de Lotar sou Desenvolvedor de Software Back-end com 4 anos de experiência, dedicados à construção e evolução de APIs e sistemas escaláveis.
+Desenvolvedor de Software com 4 anos de experiência na construção de APIs e sistemas distribuídos. Focado em criar soluções escaláveis e resilientes, aplicando padrões de arquitetura e boas práticas de desenvolvimento.
 
-Minha stack a que dedico a maior parte do meu tempo é Java e Spring Framework.
-
-Possuo experiência com Node.js e TypeScript, o que me ajuda a ser versátil na escolha da solução técnica.
+Atualmente, dedico minha atuação e evolução técnica ao ecossistema **Java e Spring Framework**, utilizando minha sólida bagagem com **Node.js, TypeScript e Cloud (AWS)** para entregar software de alta qualidade.
 
 ---
 
-### 🌐 Contato
+### 🛠️ Tecnologias e Competências
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslotar/)
-[![Site](https://img.shields.io/badge/-Portfólio-0A0A0A?style=flat&logo=site)](https://lotar.dev.br)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amaral.lucas.lotar@gmail.com)
-![](https://komarev.com/ghpvc/?username=Lotar-lucas)
+#### **Core Stack**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+#### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+#### **Qualidade e Arquitetura**
+* **Testes:** Jest, JUnit, Mockito, TDD.
+* **Arquitetura:** Microservices, Event-Driven, REST APIs, Clean Architecture.
+* **Ferramentas:** LocalStack, Serverless Framework, Git, CI/CD.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
+### 🚀 Foco Atual de Desenvolvimento
+- 🏗️ Implementação de sistemas distribuídos com **Spring Cloud** e **Spring Boot**.
+- 📩 Mensageria e processamento assíncrono com **RabbitMQ** e **AWS SQS**.
+- 🛠️ Otimização de queries e modelagem de dados em **PostgreSQL**.
 
-#### **Back-end**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-0073?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+---
 
-#### **Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+### 📊 Estatísticas
+![Stats de Lucas](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=compact&theme=tokyonight&hide_border=true)
 
-#### **DevOps & Cloud**
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
+### 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslotar/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0A0A0A?style=flat&logo=buffer&logoColor=white)](https://lotar.dev.br)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:amaral.lucas.lotar@gmail.com)
 
-#### **Qualidade**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotar-lucas&layout=donut&show_icons=true&theme=holi&hide=html,css,ejs&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Lotar-lucas&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+---
